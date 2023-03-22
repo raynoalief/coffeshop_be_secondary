@@ -12,7 +12,7 @@ Coffee for everyone
 ![expressjs](https://img.shields.io/badge/expressjs-4-lightgrey)
 ![postgreSQL](https://img.shields.io/badge/postgreSQL-11-blue)
 ![Bcrypt](https://img.shields.io/badge/bcrypt-5.1-orange)
-![Cloudinary](https://img.shields.io/badge/cloudinary-1.35-blue)
+
 ![Jsonwebtoken](https://img.shields.io/badge/jwt-9.0.0-cyan)
 
 ## Features
@@ -51,7 +51,7 @@ $ npm start
 | ------------ | :---------------------------: | :----------- |
 | /auth        |            `POST`             | Auth         |
 | /user        | `POST` `GET` `PATCH` `DELETE` | Users        |
-| /profile     |     `POST` `GET` `PATCH`      | Profiles     |
-| /product     | `POST` `GET` `PATCH` `DELETE` | Products     |
-| /promo       | `POST` `GET` `PATCH` `DELETE` | Promos       |
-| /transaction | `POST` `GET` `PATCH` `DELETE` | Transactions |
+| /userProfile |     `POST` `GET` `PATCH`      | userProfiles |
+| /products    | `POST` `GET` `PATCH` `DELETE` | Products     |
+| /cart        |         `POST` `GET`          | Cart         |
+| /history     |     `POST` `GET` `DELETE`     | History      |

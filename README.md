@@ -4,7 +4,7 @@
 
 ## About The Project
 
-Coffee for everyone
+This project for backend Coffeshop mobile
 
 ## Built With
 
